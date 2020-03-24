@@ -13,7 +13,6 @@ export default {
   }
 };
 </script>
-script
 
 <style>
 /* #app {
@@ -215,7 +214,9 @@ textarea {
 [type='text'],
 [type='number'],
 [type='search'],
-[type='password'] {
+[type='password'],
+[type='date'],
+[type='time'] {
   height: 52px;
   width: 100%;
   padding: 0 10px;
